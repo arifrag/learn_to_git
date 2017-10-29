@@ -1,6 +1,0 @@
-Perintah Perintah Git
-	git clone => untuk mengambil project dari git
-	git add . => untuk menstage atau memastikan perubahan
-	git commit => untuk memberi deskripsi pada perubahan kita
-	git branch => untuk membuat branch baru
-	git checkout -b =>
